@@ -252,7 +252,7 @@ Social Contact是一款用于社交交友的小程序，它能够根据用户的
 
 体验二维码：
 
-![orN3s4lDPJrro_mgZ7za4J2wuuEk](https://github.com/iStitches/Social-Contact/blob/master/IMAGE_local/orN3s4lDPJrro_mgZ7za4J2wuuEk.jpg)
+![orN3s4lDPJrro_mgZ7za4J2wuuEk](https://github.com/iStitches/Social-Contact/blob/master/introduce.assets/orN3s4lDPJrro_mgZ7za4J2wuuEk.jpg)
 
 ### 五、开发者
 
