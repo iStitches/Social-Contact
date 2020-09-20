@@ -24,7 +24,7 @@ Social Contact是一款用于社交交友的小程序，它能够根据用户的
 
 > **就整体而言，小程序主要分为首页+附近的人+消息+我的 四个主要模块来进行构造**
 
-![image-20200920000900672](introduce.assets/image-20200920000900672.png)
+![image-20200920000900672](https://github.com/iStitches/Social-Contact/blob/master/introduce.assets/image-20200920000900672.png)
 
 
 
@@ -32,15 +32,15 @@ Social Contact是一款用于社交交友的小程序，它能够根据用户的
 
 #### 3.1 效果截图：
 
-![img](introduce.assets/5EC3E7436061F7B5D0BEF426528587B8.png)
+![img](https://github.com/iStitches/Social-Contact/blob/master/introduce.assets/5EC3E7436061F7B5D0BEF426528587B8.png)
 
-![img](introduce.assets/C0E170BF0FC00652C09A3C57CCDCB7DF.png)
+![img](https://github.com/iStitches/Social-Contact/blob/master/introduce.assets/C0E170BF0FC00652C09A3C57CCDCB7DF.png)
 
-![img](introduce.assets/D17FC5D09EA413E83D62B837FD2C2990.png)
+![img](https://github.com/iStitches/Social-Contact/blob/master/introduce.assets/D17FC5D09EA413E83D62B837FD2C2990.png)
 
-![img](introduce.assets/830FA5AFCB5E83AA24CC4E5BA7313136.png)
+![img](https://github.com/iStitches/Social-Contact/blob/master/introduce.assets/830FA5AFCB5E83AA24CC4E5BA7313136.png)
 
-![img](introduce.assets/30CBF684FC2794BDE6976E49288E0A36.png)
+![img](https://github.com/iStitches/Social-Contact/blob/master/introduce.assets/30CBF684FC2794BDE6976E49288E0A36.png)
 
 #### 3.2 部分功能代码：
 
@@ -251,7 +251,7 @@ Social Contact是一款用于社交交友的小程序，它能够根据用户的
 
 体验二维码：
 
-![orN3s4lDPJrro_mgZ7za4J2wuuEk](introduce.assets/orN3s4lDPJrro_mgZ7za4J2wuuEk.jpg)
+![orN3s4lDPJrro_mgZ7za4J2wuuEk](https://github.com/iStitches/Social-Contact/blob/master/IMAGE_local/orN3s4lDPJrro_mgZ7za4J2wuuEk.jpg)
 
 ### 五、开发者
 
