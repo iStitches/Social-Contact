@@ -1,0 +1,15 @@
+/* miniprogram/pages/detail/detail.wxss */
+.detail button{
+  border-radius: 0;
+}
+.detail-item{
+  margin: 20rpx; border-bottom: 1px #8a8a8a dashed; padding: 10rpx;
+  display: flex; align-items: center;
+}
+.detail-item image{
+    width: 100rpx;height: 100rpx;border-radius: 50%;
+}
+
+.detail-phoneNumber , .detail-weixinNumber{margin-left: 10rpx;}
+
+.judgeFriend{color: red;}

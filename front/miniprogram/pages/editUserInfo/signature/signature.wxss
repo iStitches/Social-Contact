@@ -1,0 +1,6 @@
+/* miniprogram/pages/editUserInfo/signatrue/signatrue.wxss */
+input{
+  margin-top: 150rpx;
+  margin-bottom: 50rpx;
+  border: 1px #8a8a8a solid;
+}

@@ -1,0 +1,53 @@
+<!--miniprogram/pages/my/my.wxml-->
+<view class="user">
+<!--顶部用户信息-->
+<view class="bk1">
+   <view class="user-info">
+      <image src="{{userPhoto}}"></image>
+      <view wx:if="{{isLogin}}" class="user-info-exit">
+         <text>欢迎您: {{userName}}</text>
+      </view>
+      <button wx:else open-type="getUserInfo" bindgetuserinfo="bindGetUserInfo" type="primary" size="mini" disabled="{{canTap}}">登录</button>
+   </view>
+</view>
+
+      <view class="bk2">
+      <navigator url="../editUserInfo/editUserInfo" open-type="navigate" >
+
+         <view class="user-list-item">
+            <view class="text-1">
+               <text class="iconfont icon-shezhi1"></text>
+               <text class="text-11">编辑个人信息</text>
+             </view>
+             <text class="iconfont icon-iconfontjiantou5"></text>
+          </view>
+
+
+      </navigator>
+      
+     </view>
+
+
+       <view class="bk3">
+         <navigator url="../friendList/friendList" open-type="navigate" >
+            <view class="user-list-item">
+             <view class="text-1">
+               <text class="iconfont icon-chakan2"></text>
+               <text class="text-11">查看好友列表</text>
+             </view>
+
+             <text class="iconfont icon-iconfontjiantou5"></text>
+          </view>
+      </navigator>
+      <navigator url="{{'../detail/detail?userId='+_id}}" open-type="navigate" >
+         <view class="user-list-item">
+               <view class="text-1">
+               <text class="iconfont icon-caiyouduo_wode-gerenzhuye"></text>
+               <text class="text-11">个人主页</text>
+             </view>
+             <text class="iconfont icon-iconfontjiantou5"></text>
+          </view>
+      </navigator>
+       </view>
+   
+</view>

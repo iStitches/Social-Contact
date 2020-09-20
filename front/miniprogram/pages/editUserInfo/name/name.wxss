@@ -1,0 +1,11 @@
+/* miniprogram/pages/editUserInfo/name/name.wxss */
+input{
+
+  
+  margin-top: 150rpx;
+  margin-bottom: 50rpx;
+  border: 1px #8a8a8a solid;
+}
+.type1{
+  margin-bottom: 30rpx;
+}

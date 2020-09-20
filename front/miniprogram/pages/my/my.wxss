@@ -1,0 +1,41 @@
+/* miniprogram/pages/my/my.wxss */
+/*头像以上*/
+.user-info{ background: white;width: 100%; padding-bottom: 20rpx;
+  height: 150rpx;border-bottom: 1px solid darkgray;display: flex;align-items: center;}
+.user-info image{width: 100rpx;height: 100rpx;border-radius: 50%;border: 1px solid black;margin-right: 10px;}
+.user-info-exit{display: flex;align-items: center;justify-content: space-between;}
+.user-info-exit button{margin-left: 50px; background: #dbdbdb;}
+
+/*信息修改*/
+.user-list{margin-top: 20px;}
+.user-list-item{display: flex;justify-content: space-between;height: 50rpx;
+  border-bottom: 1px darkgray solid;
+  border-top: 1px darkgray solid;
+  padding: 10rpx;align-items: center;}
+.user-info-exit button{margin-left: 50px; background: #dbdbdb;}
+
+/* 样式优化 */
+page{
+  background:#FDF3E7
+}
+
+.bk1{
+  height: 200rpx;
+  background-color: #fdf3e7;
+  display: flex;
+  align-items: top;
+}
+.bk2{
+  height: 101rpx;
+  display: flex;
+  background-color:#fdf3e7;
+  align-items: top;
+}
+navigator{
+  height: 72rpx;
+  width: 100%;
+  background:white;
+}
+.text-11{
+  margin-left:20rpx;
+}

@@ -1,0 +1,7 @@
+<movable-area class="area"  style="background:#e6e6e6" >
+        <movable-view direction="horizontal" class="view" bindtap="addFriend">{{userInformation.userName}}</movable-view>\
+        <navigator  style="background:#e6e6e6"  url="{{'/pages/detail/detail?userId='+ userInformation._id}}" open-type="navigate" >
+                <image style="background:#e6e6e6" src="{{userInformation.userPhoto}}"/>
+        </navigator>
+        <view class="delete" bindtap="removeMessage">删除</view>
+</movable-area>

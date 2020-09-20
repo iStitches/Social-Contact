@@ -1,0 +1,21 @@
+/* miniprogram/pages/index/index.wxss */
+
+/*设置swiper的样式*/
+.index-swiper{margin: 20rpx;overflow: hidden;height: 300rpx;border-radius: 10rpx;
+border: 2px solid pink;margin-top: 110rpx;}
+.index-swiper image{width: 100%;border-radius: 10rpx;overflow: hidden;}
+
+/*分页栏*/
+.index-tab {display: flex;}
+.index-tab view{flex: 1;text-align: center;margin: 20rpx;padding: 10rpx;}
+.index-tab .active{color: #1296db;border-bottom: 2px solid #1296db;}
+
+/*图片内容*/
+.index-list {display: flex;flex-wrap: wrap;}
+.index-list-item {width: 50%;margin-bottom: 10px;}
+.index-list-item image{width: 90%;height: 250rpx;margin: 0 auto;display: block;border-radius: 20rpx;}
+.index-list-text {width:90%;display: flex;justify-content: space-between;margin: 0 auto;color: hotpink;}
+
+page{
+  background:#FDF3E7
+}

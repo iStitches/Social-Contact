@@ -1,0 +1,4 @@
+<!--miniprogram/pages/editUserInfo/signatrue/signatrue.wxml-->
+
+<input type="text" value="{{signature}}" bindinput="handleText"/>
+<button type="primary" bindtap="handleBtn">设置个性签名</button>

@@ -1,0 +1,6 @@
+/* miniprogram/pages/message/message.wxss */
+.message{padding: 20rpx;}
+.message-text{margin: 20rpx;margin-bottom: 50rpx;font-weight: bold; color: green;}
+page{
+  background:#FDF3E7
+}

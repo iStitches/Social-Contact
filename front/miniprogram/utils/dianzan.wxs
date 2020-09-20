@@ -1,0 +1,7 @@
+var zan=function(count){
+   if(count>1000)
+     count=(count/1000).toFixed(1)+"K";
+     return count;
+}
+
+module.exports.zan= zan
